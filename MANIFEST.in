@@ -1,0 +1,3 @@
+include README.md
+recursive-include triggeredmenu/static/css *
+recursive-include triggeredmenu/static/js *
