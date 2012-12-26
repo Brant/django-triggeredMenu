@@ -1,0 +1,3 @@
+[submodule "triggeredmenu/static"]
+	path = triggeredmenu/static
+	url = https://github.com/Brant/jquery.triggeredMenu.git
